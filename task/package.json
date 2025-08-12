@@ -1,0 +1,23 @@
+{
+  "name": "task",
+  "version": "2.0.0",
+  "description": "its my pratice of backend npm ",
+  "main": "app.js",
+  "type":"module",
+  "scripts": {
+    "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Bhagysree/pratice_backend.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "bhagyasree",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhagysree/pratice_backend/issues"
+  },
+  "homepage": "https://github.com/Bhagysree/pratice_backend#readme"
+}
